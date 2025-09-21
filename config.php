@@ -7,7 +7,7 @@
 
 // Configuración de conexión a Zabbix
 $zabUrl    = 'http://10.80.80.175/zabbix';
-$zabToken  = 'c656ccbf99abd980e6e04d495321be7a755d3626838e02bc82bcd6f5c66c7e69';
+$zabToken  = 'api_key';
 $groupName = 'OLT';
 
 // Configuración del sistema
